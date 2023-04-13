@@ -6148,5 +6148,4 @@ spawn(function()
 		end)
     
     S:AddButtonRight("Remoe ScreenKaitan",function()
-game:GetService("Players").LocalPlayer.PlayerGui.Main.Compass:Destroy()    
-end)
+game:GetService("Players").LocalPlayer.PlayerGui.Main.Compass:Destroy()    end)
